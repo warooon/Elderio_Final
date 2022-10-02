@@ -1,6 +1,6 @@
 # elderio_with_ui_new
 
-A new Flutter project.
+App for assisting elder people to be fluent with technology
 
 ## Getting Started
 
